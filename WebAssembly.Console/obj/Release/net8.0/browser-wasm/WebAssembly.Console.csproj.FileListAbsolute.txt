@@ -1,0 +1,13 @@
+/home/guilhermelinosp/repositories/others/WebAssembly.ConsoleApp/WebAssembly.Console/bin/Release/net8.0/browser-wasm/WebAssembly.Console.deps.json
+/home/guilhermelinosp/repositories/others/WebAssembly.ConsoleApp/WebAssembly.Console/bin/Release/net8.0/browser-wasm/WebAssembly.Console.runtimeconfig.json
+/home/guilhermelinosp/repositories/others/WebAssembly.ConsoleApp/WebAssembly.Console/bin/Release/net8.0/browser-wasm/WebAssembly.Console.dll
+/home/guilhermelinosp/repositories/others/WebAssembly.ConsoleApp/WebAssembly.Console/bin/Release/net8.0/browser-wasm/WebAssembly.Console.pdb
+/home/guilhermelinosp/repositories/others/WebAssembly.ConsoleApp/WebAssembly.Console/obj/Release/net8.0/browser-wasm/WebAssembly.Console.GeneratedMSBuildEditorConfig.editorconfig
+/home/guilhermelinosp/repositories/others/WebAssembly.ConsoleApp/WebAssembly.Console/obj/Release/net8.0/browser-wasm/WebAssembly.Console.AssemblyInfoInputs.cache
+/home/guilhermelinosp/repositories/others/WebAssembly.ConsoleApp/WebAssembly.Console/obj/Release/net8.0/browser-wasm/WebAssembly.Console.AssemblyInfo.cs
+/home/guilhermelinosp/repositories/others/WebAssembly.ConsoleApp/WebAssembly.Console/obj/Release/net8.0/browser-wasm/WebAssembly.Console.csproj.CoreCompileInputs.cache
+/home/guilhermelinosp/repositories/others/WebAssembly.ConsoleApp/WebAssembly.Console/obj/Release/net8.0/browser-wasm/WebAssembly.Console.dll
+/home/guilhermelinosp/repositories/others/WebAssembly.ConsoleApp/WebAssembly.Console/obj/Release/net8.0/browser-wasm/refint/WebAssembly.Console.dll
+/home/guilhermelinosp/repositories/others/WebAssembly.ConsoleApp/WebAssembly.Console/obj/Release/net8.0/browser-wasm/WebAssembly.Console.pdb
+/home/guilhermelinosp/repositories/others/WebAssembly.ConsoleApp/WebAssembly.Console/obj/Release/net8.0/browser-wasm/WebAssembly.Console.genruntimeconfig.cache
+/home/guilhermelinosp/repositories/others/WebAssembly.ConsoleApp/WebAssembly.Console/obj/Release/net8.0/browser-wasm/ref/WebAssembly.Console.dll

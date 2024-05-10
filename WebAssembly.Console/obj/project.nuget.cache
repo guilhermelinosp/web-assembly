@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R5wy0j82tDEfS9pIvmAeGNz85NXjoXiMVLcQbnD2A5OJrzNAZkE+IsVFqIhtCHy+qbuHHsYSUUInjS+ofvzhag==",
+  "success": true,
+  "projectFilePath": "/home/guilhermelinosp/repositories/others/WebAssembly.ConsoleApp/WebAssembly.Console/WebAssembly.Console.csproj",
+  "expectedPackageFiles": [
+    "/home/guilhermelinosp/.nuget/packages/microsoft.net.illink.tasks/8.0.4/microsoft.net.illink.tasks.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

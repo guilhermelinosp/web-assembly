@@ -1,0 +1,23 @@
+{
+  "runtimeOptions": {
+    "tfm": "net8.0",
+    "includedFrameworks": [
+      {
+        "name": "Microsoft.NETCore.App",
+        "version": "8.0.3"
+      }
+    ],
+    "wasmHostProperties": {
+      "perHostConfig": [
+        {
+          "name": "node",
+          "js-path": "main.mjs",
+          "host": "nodejs"
+        }
+      ]
+    },
+    "configProperties": {
+      "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": false
+    }
+  }
+}

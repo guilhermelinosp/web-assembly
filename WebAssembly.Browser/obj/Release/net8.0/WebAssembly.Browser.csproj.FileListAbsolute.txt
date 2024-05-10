@@ -1,0 +1,7 @@
+/home/guilhermelinosp/repositories/others/WebAssembly.ConsoleApp/WebAssembly.Browser/obj/Release/net8.0/WebAssembly.Browser.GeneratedMSBuildEditorConfig.editorconfig
+/home/guilhermelinosp/repositories/others/WebAssembly.ConsoleApp/WebAssembly.Browser/obj/Release/net8.0/WebAssembly.Browser.AssemblyInfoInputs.cache
+/home/guilhermelinosp/repositories/others/WebAssembly.ConsoleApp/WebAssembly.Browser/obj/Release/net8.0/WebAssembly.Browser.AssemblyInfo.cs
+/home/guilhermelinosp/repositories/others/WebAssembly.ConsoleApp/WebAssembly.Browser/obj/Release/net8.0/WebAssembly.Browser.csproj.CoreCompileInputs.cache
+/home/guilhermelinosp/repositories/others/WebAssembly.ConsoleApp/WebAssembly.Browser/obj/Release/net8.0/WebAssembly.Browser.dll
+/home/guilhermelinosp/repositories/others/WebAssembly.ConsoleApp/WebAssembly.Browser/obj/Release/net8.0/refint/WebAssembly.Browser.dll
+/home/guilhermelinosp/repositories/others/WebAssembly.ConsoleApp/WebAssembly.Browser/obj/Release/net8.0/WebAssembly.Browser.pdb
